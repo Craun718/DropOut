@@ -1,6 +1,5 @@
 use std::collections::BTreeSet;
 
-#[cfg(test)]
 use dtor::dtor;
 
 #[derive(Debug)]
